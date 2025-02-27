@@ -1,3 +1,5 @@
 Report-checkpoint.ipynb
 environment-checkpoint.yaml
 README-checkpoint.md
+.ipynb_checkpoints/
+.DS_Store
